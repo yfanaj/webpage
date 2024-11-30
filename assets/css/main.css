@@ -2989,8 +2989,8 @@ input, select, textarea {
 				font-size: 12pt;
 			}
 
-			.intro {
-				text-align: right;
+			.inner {
+				text-align: center;
 			}
 
 	}
@@ -3018,8 +3018,8 @@ input, select, textarea {
 					margin-bottom: 0;
 				}
 			
-				.intro {
-					text-align: right;
+				.inner {
+					text-align: center;
 				}
 
 		/* Footer */
@@ -3082,7 +3082,7 @@ input, select, textarea {
 						display: inline;
 					}
 
-				.intro {
+				.inner {
 					text-align: center;
 				}
 
@@ -3177,7 +3177,7 @@ input, select, textarea {
 					font-size: 1.35em;
 				}
 
-				.intro {
+				.inner {
 					text-align: center;
 				}
 
@@ -3225,7 +3225,7 @@ input, select, textarea {
 					display: none;
 				}
 
-				.intro {
+				.inner {
 					text-align: center;
 				}
 

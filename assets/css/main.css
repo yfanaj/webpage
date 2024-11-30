@@ -2988,6 +2988,10 @@ input, select, textarea {
 				font-size: 12pt;
 			}
 
+			.intro {
+				text-align: right;
+			}
+
 	}
 
 /* Large */
@@ -3011,6 +3015,10 @@ input, select, textarea {
 
 				#header > .inner {
 					margin-bottom: 0;
+				}
+			
+				.intro {
+					text-align: right;
 				}
 
 		/* Footer */
@@ -3072,6 +3080,10 @@ input, select, textarea {
 					#header h1 br {
 						display: inline;
 					}
+
+				.intro {
+					text-align: center;
+				}
 
 		/* Footer */
 
@@ -3164,6 +3176,10 @@ input, select, textarea {
 					font-size: 1.35em;
 				}
 
+				.intro {
+					text-align: center;
+				}
+
 		/* Footer */
 
 			#footer {
@@ -3206,6 +3222,10 @@ input, select, textarea {
 
 				#header h1 br {
 					display: none;
+				}
+
+				.intro {
+					text-align: center;
 				}
 
 		/* Footer */
